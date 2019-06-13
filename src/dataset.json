@@ -1,0 +1,44 @@
+{
+  "dataset": [
+    {
+      "label": "aeroplano",
+      "filename": "aeroplano-sample.m4a"
+    },
+    {
+      "label": "autokinito",
+      "filename": "autokinito-sample.m4a"
+    },
+    {
+      "label": "epitrapezio",
+      "filename": "epitrapezio-sample.m4a"
+    },
+    {
+      "label": "nosokomio",
+      "filename": "nosokomio-sample.m4a"
+    },
+    {
+      "label": "patoma",
+      "filename": "patoma-sample.m4a"
+    },
+    {
+      "label": "anthropos",
+      "filename": "anthropos-sample.m4a"
+    },
+    {
+      "label": "pantofles",
+      "filename": "pantofles-sample.m4a"
+    },
+    {
+      "label": "karekla",
+      "filename": "karekla-sample.m4a"
+    },
+    {
+      "label": "tilefwno",
+      "filename": "tilefwno-sample.m4a"
+    },
+    {
+      "label": "trapezi",
+      "filename": "trapezi-sample.m4a"
+    }
+  ]
+}
