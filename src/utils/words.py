@@ -1,10 +1,17 @@
 def split(signal):
+
     intervals = []
     start = 0
     end = 0
     in_word = False
 
     for index, value in enumerate(signal):
+
+        if in_word == True and index == len(signal) - 1:
+            end = index
+            intervals.append([start, end])
+            in_word = False
+
         if abs(value) == 0:
             if in_word:
                 end = index
